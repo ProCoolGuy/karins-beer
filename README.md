@@ -120,3 +120,5 @@ All endpoints require an `API_KEY` to access. Talk to Andrew to get this key. On
  1. `/api/all_locations` - Returns the first 50 Locations from the BreweryDB API
  2. `/api/locations/:city` - Returns the first 50 Locations in the matched city from the BreweryDB APIContribution: 2020-04-11 20:00
 
+Contribution: 2020-04-11 20:01
+
